@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ORT\p22-ort\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
