@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace LogicaNegocio
 {
-    internal class Subasta
+    public class Subasta : Publicacion
     {
+
+        /*Constructores*/
+        public Subasta() : base() { }
+
+        public Subasta(
+            string unNombre,
+            DateTime unaFechaPub,
+            DateTime unaFechaFin,
+            decimal unPrecioPub) : base(unNombre, unaFechaPub, unaFechaFin, unPrecioPub) { }
+
     }
 }

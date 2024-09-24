@@ -8,5 +8,13 @@ namespace LogicaNegocio
 {
     public class Administrador : Usuario
     {
+        public Administrador() : base() { }
+
+        public Administrador(
+            string unNombre,
+            string unApellido,
+            string unMail,
+            string unaContrasenia
+            ) : base(unNombre, unApellido, unMail, unaContrasenia) { }
     }
 }

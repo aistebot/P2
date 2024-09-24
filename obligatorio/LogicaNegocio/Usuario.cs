@@ -65,5 +65,55 @@ namespace LogicaNegocio
             this._contrasenia = unaContrasenia;
         }
 
+        /*Validaciones*/
+        public void Validar()
+        {
+            Usuario.ValidarNombre(this._nombre);
+            Usuario.ValidarApellido(this._apellido);
+            Usuario.ValidarMail(this._mail);
+            Usuario.ValidarContrasenia(this._contrasenia);
+        }
+
+        public static void ValidarNombre(string unNombre)
+        {
+            if (unNombre.Length < 3)
+            {
+                throw new Exception("Nombre incorrecto.");
+            }
+        }
+
+        public static void ValidarApellido(string unApellido)
+        {
+            if (unApellido.Length < 3)
+            {
+                throw new Exception("Apellido incorrecto.");
+            }
+        }
+
+        public static void ValidarMail(string unMail)
+        {
+            bool contieneArroba = false;
+            foreach (char c in unMail)
+            {
+                if (!contieneArroba && c == '@')
+                {
+                    contieneArroba = true;
+                    break;
+                }
+            }
+            if (!contieneArroba)
+            {
+                throw new Exception("Mail incorrecto.");
+            }
+        }
+
+        public static void ValidarContrasenia(string unaContrasenia)
+        {
+            if (unaContrasenia.Length < 7)
+            {
+                throw new Exception("Contraseña incorrecta.");
+            }
+        }
+
     }
 }
